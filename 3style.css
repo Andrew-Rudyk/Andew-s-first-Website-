@@ -1,0 +1,71 @@
+body {
+    background-image: url(kiew1.jpg);
+    background-size: cover;
+}
+.main-nav ul {
+    list-style: none;
+    background-color: #f4d8d5;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    font-family: Light;
+    color:white;
+    font-size: 25px;
+}
+.main-nav a {
+    display: block;
+    padding: 14px 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Bahnschrift Light;
+}
+.main-nav a:hover {
+    background-color: #b78681;
+    border-radius: 5px;
+    color: white;
+}
+.main-nav a:active {
+    background-color:#b78681; ;
+    transform: scale(0.97);
+}
+main {
+    background-color: #ABA8B9;
+    padding: 10px;
+    border-radius: 10px;
+    color:white;
+    font-family: Bahnschrift Light;
+}
+.h-main1 {
+    font-size: 30px;
+}
+footer {
+    color: white;
+    font-family: Bahnschrift Light;
+    background-color: #202021;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.footer-content {
+    text-align: center;
+}
+.footer-nav {
+    margin-top: 10px;
+}
+.footer-nav ul {
+    list-style: none;
+}
+.footer-nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.footer-nav a:hover {
+    text-decoration: underline;
+    color: white;
+}
+.footer-nav a:active {
+    color:white;
+    transform: scale(0.8);
+}
