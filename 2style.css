@@ -2,7 +2,7 @@ body {
     background-image: url(min1.jpg);
     background-size: cover;
 }
-.link {
+/* .link {
     background-image: url(github.png);
     background-size: cover;
     color: rgba(240, 248, 255, 0);
@@ -22,7 +22,7 @@ body {
     padding: 10px;
     color: white;
     font-family: Rubik;
-}
+} */
 .main-nav ul {
     list-style: none;
     background-color: #b3e47b;
