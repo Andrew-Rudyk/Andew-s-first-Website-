@@ -82,6 +82,7 @@ footer {
 .link {
     background-image: url(github.png);
     background-size: cover;
+    border-radius: 10px;
     color: rgba(240, 248, 255, 0);
     width: 170px;
     height: 170px;
